@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.google.com/maps?hl=es",
+  "url": "https://www.google.com/maps?hl=es",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": "2026-01-28 21:40:08.591487+00:00"
+}
